@@ -32,7 +32,10 @@
     {"name":"inst_57172842","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_48273457","path":"rooms/Room1/Room1.yy",},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"inst_C7F835","path":"rooms/Room1/Room1.yy",},
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   ],
