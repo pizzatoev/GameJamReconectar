@@ -1,10 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Configuración inicial de la hermana
 
-image_xscale = -1
-
-
-// Asegurar variables globales (por si se carga antes que el jugador)
+// Asegurar variables globales (por si entra antes que el jugador)
 if (!variable_global_exists("list_chat")) {
     global.list_chat = ds_queue_create();
 }

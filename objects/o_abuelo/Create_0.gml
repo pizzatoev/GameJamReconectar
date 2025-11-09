@@ -1,8 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-image_xscale = -1
-
+/// @description Configuración inicial del abuelo
 
 // Asegurar variables globales (por si se carga antes que el jugador)
 if (!variable_global_exists("list_chat")) {
